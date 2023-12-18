@@ -1,6 +1,6 @@
 import 'package:crud_app/pages/user_form.dart';
 import 'package:crud_app/pages/user_list.dart';
-import 'package:crud_app/models/user_provider.dart';
+import 'package:crud_app/providers/user_provider.dart';
 import 'package:crud_app/pages/user_view.dart';
 import 'package:flutter/material.dart';
 
