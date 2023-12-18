@@ -1,6 +1,6 @@
-import 'package:crud_app/container_all.dart';
-import 'package:crud_app/field_form.dart';
-import 'package:crud_app/user_provider.dart';
+import 'package:crud_app/widgets/container_all.dart';
+import 'package:crud_app/widgets/field_form.dart';
+import 'package:crud_app/models/user_provider.dart';
 import 'package:flutter/material.dart';
 
 class UserView extends StatelessWidget {

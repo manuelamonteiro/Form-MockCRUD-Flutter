@@ -1,4 +1,4 @@
-import 'package:crud_app/user.dart';
+import 'package:crud_app/models/user.dart';
 import 'package:flutter/material.dart';
 
 class UserProvider extends InheritedWidget {

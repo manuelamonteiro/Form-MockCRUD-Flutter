@@ -1,7 +1,7 @@
-import 'package:crud_app/user_form.dart';
-import 'package:crud_app/user_list.dart';
-import 'package:crud_app/user_provider.dart';
-import 'package:crud_app/user_view.dart';
+import 'package:crud_app/pages/user_form.dart';
+import 'package:crud_app/pages/user_list.dart';
+import 'package:crud_app/models/user_provider.dart';
+import 'package:crud_app/pages/user_view.dart';
 import 'package:flutter/material.dart';
 
 void main() {
